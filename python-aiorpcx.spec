@@ -6,7 +6,7 @@ and server implementation.
 
 Name:           python-%{srcname}
 Version:        0.18.4
-Release:        5%{?dist}
+Release:        5%{?dist}1
 Summary:        Generic async RPC implementation
 
 # https://github.com/kyuupichan/aiorpcX/issues/11
